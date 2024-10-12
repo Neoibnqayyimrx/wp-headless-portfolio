@@ -1,0 +1,1 @@
+export const reqUrl  = 'http://headless-portfolio.local/wp-json/wp/v2'
